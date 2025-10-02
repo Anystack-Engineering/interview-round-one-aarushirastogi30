@@ -8,7 +8,7 @@ import java.util.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class OrdersJsonTestSimpleWithComments {
+public class OrdersTest1 {
 
     private static ReadContext json;  // Used to read JSON using JsonPath
 
